@@ -1,4 +1,4 @@
-# Data Science & AI Portfolio
+ Portfolio
 
 Welcome to my personal portfolio website! This project showcases my journey as a Data Scientist and AI Enthusiast, featuring my technical projects, professional experience, and certifications.
 

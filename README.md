@@ -42,13 +42,4 @@ portfolio/
     -   Update `emailjs.init("YOUR_PUBLIC_KEY")` in `index.html` with your own EmailJS credentials to make the form work for you.
     -   Replace images in the `images/` folder (or root) as needed.
 
-## 📬 Contact
-
-**Abel Adamu Shumet**
--   **Email:** [abeladamushumet@gmail.com](mailto:abeladamushumet@gmail.com)
--   **LinkedIn:** [linkedin.com/in/abeladamushumet](https://linkedin.com/in/abeladamushumet)
--   **GitHub:** [github.com/abeladamushumet](https://github.com/abeladamushumet)
--   **Telegram:** [@ab_el_16](https://t.me/ab_el_16)
-
----
 
